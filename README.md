@@ -46,4 +46,4 @@ This repository contains a Python script for automating data extraction, process
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/DebasisNandiCode/Selenium-Playwright_Data_Automation.git
+git clone https://github.com/DebasisNandiCode/Selenium-Playwright_Data_Scraping.git
